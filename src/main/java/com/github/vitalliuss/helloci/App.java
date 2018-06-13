@@ -12,6 +12,6 @@ public class App
     }
     
     public static void doNothing() {
-        System.out.println("Hello!");
+        System.out.println("Hello CI!");
     }
 }
